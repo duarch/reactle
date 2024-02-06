@@ -130,6 +130,7 @@ For mobile and wearable devices and smart TVs, sharing of results is initially a
 - [Parolle.it](https://parolle.it): Italian
 - [Pashtoodle](https://pashtoodle.lingdocs.com): Pashto
 - [Persian](https://www.persian-wordle.ir/): Persian (Farsi)
+- [Persiga](https://persiga.duar.ch/): Português (7 letras)
 - [Pinoledle](https://pinoledle.vercel.app/): Nicaraguan
 - [Pinyin](https://www.pinyindle.com/): Pinyin (romanization system for Mandarin Chinese)
 - [Rudle](https://rudle.vercel.app): Russian
