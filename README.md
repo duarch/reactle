@@ -130,6 +130,7 @@ For mobile and wearable devices and smart TVs, sharing of results is initially a
 - [Parolle.it](https://parolle.it): Italian
 - [Pashtoodle](https://pashtoodle.lingdocs.com): Pashto
 - [Persian](https://www.persian-wordle.ir/): Persian (Farsi)
+- [Persiga](https://persiga.duar.ch/): Português (7 letras)
 - [Pinoledle](https://pinoledle.vercel.app/): Nicaraguan
 - [Pinyin](https://www.pinyindle.com/): Pinyin (romanization system for Mandarin Chinese)
 - [Rudle](https://rudle.vercel.app): Russian
@@ -212,7 +213,6 @@ For mobile and wearable devices and smart TVs, sharing of results is initially a
 - [Cloudle](https://github.com/sstenchever/cloudle): Cloud technology
 - [Colordle](https://github.com/necropolina/colordle): Guess the hexadecimal color code of the background
 - [Genele](https://andrewholding.github.io/gene-wordle/): Gene symbols
-- [Jazle](https://jazle.quest/): Javascript
 - [Mathler](https://www.mathler.com/): Find the solution that equals X
 - [Morsel](https://plingbang.github.io/morsel/): Morse
 - [Numble](https://rbrignall.github.io/numble/): Maths
